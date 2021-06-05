@@ -1,4 +1,4 @@
-m<h1> Hello Hermine, Welcome to Simple DevOps Project !!   </h1>
+m<h1> Hello Felix Tamofo, Welcome to Simple DevOps Project !!   </h1>
 <h2> Data Service Group is your learning partner. </h2>
 <h2> We are so glad to see you here! </h2>
 <h2> Keep pushing! </h2>
